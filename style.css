@@ -191,9 +191,10 @@ ul,ol{
     font-family: sans-serif;
 }
 .footer-content h3{
+    color: #696871;
     font-size: 14px;
-    color: #73717b;
     line-height: 40px;
+    
 }
 .footer-content h3 span{
     font-size: 25px;
